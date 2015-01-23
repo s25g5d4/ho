@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "朕知道了",
-  "description": "modifies your facebook like button",
+  "name": "好！",
+  "description": "把你的「讚」改成「好！」",
   "version": "1.9.487",
 
   "permissions": [
